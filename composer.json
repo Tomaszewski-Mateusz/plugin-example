@@ -1,0 +1,16 @@
+{
+    "name": "coderhino/plugin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mateusz Tomaszewski"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "inc\\": "inc/"
+        }
+    }
+}
